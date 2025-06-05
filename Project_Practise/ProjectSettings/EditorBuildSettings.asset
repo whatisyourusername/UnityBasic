@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CharSelect.unity
     guid: a4981086c631f4f49a860ff3eed75771
+  - enabled: 1
+    path: Assets/Scenes/Camera.unity
+    guid: 9a57260b3b304f24498c33d1c9d2d311
   m_configObjects: {}
