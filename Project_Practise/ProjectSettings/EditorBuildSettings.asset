@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Camera.unity
     guid: 9a57260b3b304f24498c33d1c9d2d311
+  - enabled: 1
+    path: Assets/Scenes/Gatcha.unity
+    guid: cf9f057c56333f94a90ca0893544c57e
   m_configObjects: {}

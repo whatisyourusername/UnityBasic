@@ -8,6 +8,7 @@ public class SceneController : MonoBehaviour
     private const string TowerSceneName = "Tower";
     private const string CharacterSelectSceneName = "CharSelect";
     private const string CameraSceneName= "Camera";
+    private const string GatchaSceneName= "Gatcha";
 
     // 로그인 → 타워 씬으로 이동
     public void GoToTower()
@@ -27,6 +28,10 @@ public class SceneController : MonoBehaviour
     public void GoCameraScene()
     {
         SceneManager.LoadScene(CameraSceneName);
+    }
+    public void GoToGatcha()
+    {
+        SceneManager.LoadScene(GatchaSceneName);
     }
 
     // 현재 씬 이름 출력 (디버깅용)
